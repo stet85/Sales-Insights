@@ -1,6 +1,7 @@
 # Sales Insight Project
 - **Link to Interactive view:**
   https://app.powerbi.com/view?r=eyJrIjoiOTBhMjQ5OTAtYjE2NC00MjgzLWE0M2MtZDI1MzYxNDA0Y2MzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 This repository contains an end-to-end project named "Sales Insight," encompassing three dashboards: Key Insights, Performance Insights, and Profit Analysis.
 
 ## Overview
